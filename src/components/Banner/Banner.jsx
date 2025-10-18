@@ -8,7 +8,7 @@ const Banner = () => {
 
     return (
 
-     <div className='mt-20'>
+     <div>
                 <h1 className='text-[##001931] text-7xl font-bold opacity-90 bg-[linear-gradient(125deg,_#632EE3_5.68%,_#9F62F2_88.38%)] bg-clip-text'>We Build <br /><span className='text-transparent font-black'>Productive</span> Apps</h1>
                 <p className='text-[#627382] text-xl mt-4'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-4 mt-10 w-full justify-center'>

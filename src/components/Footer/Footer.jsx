@@ -3,7 +3,7 @@ import logo from '/src/assets/logo.png'
 
 const Footer = () => {
     return (
-        <div className='bg-[#001931]'>
+        <div className='bg-[#001931] mt-20'>
 <footer className="footer sm:footer-horizontal text-neutral-content p-10 max-width">
   <nav>
     <h6 className="footer-title">Services</h6>

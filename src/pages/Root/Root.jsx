@@ -5,7 +5,7 @@ import Footer from '../../components/Footer/Footer';
 
 const Root = () => {
     return (
-        <div>
+        <div className='min-h-[100vh] flex flex-col '>
             <Navbar />
             <Outlet />
             <Footer />
