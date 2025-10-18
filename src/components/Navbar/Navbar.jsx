@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from '/src/assets/logo.png'
 import { FaGithub } from 'react-icons/fa';
+import BtnPrimary from '../BtnPrimary/BtnPrimary';
 
 const Navbar = () => {
 
@@ -18,7 +19,9 @@ const Navbar = () => {
                 </ul>
             </div>
             <div>
-                <button className='btn primary-gradient text-base font-semibold text-white gap-2.5 rounded-sm'><FaGithub size="20px"/>Contribute</button>
+                <BtnPrimary onClick={() => window.open('https://github.com/0fahimtazwar0/B12-A08-Hero-Apps.git', '_blank')}>
+                    <FaGithub size="20px"/> Contribute
+                </BtnPrimary>
             </div>
         </div>
     );
