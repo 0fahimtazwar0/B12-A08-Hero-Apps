@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.imgur.com/fWhexdy.jpeg",
+    "title": "ZenFlow Meditation Timer",
+    "companyName": "Inner Peace Labs",
+    "id": 101,
+    "description": "Guided meditations and customizable timers for daily mindfulness and stress reduction.",
+    "size": 45,
+    "reviews": 15289,
+    "ratingAvg": 4.8,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 4119 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/qdDtrXN.jpeg",
+    "title": "CodeQuest IDE Mobile",
+    "companyName": "DevGenius Solutions",
+    "id": 102,
+    "description": "A lightweight, fully-featured mobile integrated development environment for coding on the go.",
+    "size": 98,
+    "reviews": 9870,
+    "ratingAvg": 4.5,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 470 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3100 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/GdUpDtz.jpeg",
+    "title": "AstroExplorer VR",
+    "companyName": "Cosmic View Studios",
+    "id": 103,
+    "description": "An immersive virtual reality app for exploring the solar system and distant galaxies.",
+    "size": 750,
+    "reviews": 2500,
+    "ratingAvg": 4.9,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 1600 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/C6IJuzz.jpeg",
+    "title": "RecipeGenie AI",
+    "companyName": "Culinary Tech",
+    "id": 104,
+    "description": "Generates recipes based on ingredients you have in your fridge, minimizing food waste.",
+    "size": 60,
+    "reviews": 32000,
+    "ratingAvg": 4.7,
+    "downloads": 2100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 21000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/I2X7fq1.jpeg",
+    "title": "FinTrack Budget",
+    "companyName": "Secure Wallets Inc.",
+    "id": 105,
+    "description": "Simple and secure personal finance tracker and budgeting tool with bank sync.",
+    "size": 35,
+    "reviews": 51200,
+    "ratingAvg": 4.6,
+    "downloads": 4500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1400 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 14000 },
+      { "name": "5 star", "count": 32000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/u0QOQYd.jpeg",
+    "title": "GlobeTrek Language",
+    "companyName": "LinguaWorld",
+    "id": 106,
+    "description": "Learn 10 new languages with bite-sized lessons and interactive games.",
+    "size": 110,
+    "reviews": 75000,
+    "ratingAvg": 4.7,
+    "downloads": 8900000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 4000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 48000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/oHw7Gk1.jpeg",
+    "title": "PixelPainter Pro",
+    "companyName": "Artisanal Apps",
+    "id": 107,
+    "description": "Professional digital drawing and painting app with advanced layer management and brush customization.",
+    "size": 220,
+    "reviews": 18000,
+    "ratingAvg": 4.9,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/AZrmdiU.jpeg",
+    "title": "Healthify Daily Tracker",
+    "companyName": "Wellbeing Systems",
+    "id": 108,
+    "description": "Track your fitness, nutrition, and sleep all in one easy-to-use app.",
+    "size": 55,
+    "reviews": 92000,
+    "ratingAvg": 4.5,
+    "downloads": 11000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2500 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 27000 },
+      { "name": "5 star", "count": 55000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/2rGZkt4.jpeg",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Hub",
+    "id": 109,
+    "description": "Advanced task management and project planning for individuals and small teams.",
+    "size": 40,
+    "reviews": 40000,
+    "ratingAvg": 4.7,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/d91XJrw.jpeg",
+    "title": "EchoTunes Music Player",
+    "companyName": "SoundStream Corp",
+    "id": 110,
+    "description": "High-fidelity music player with personalized playlists and offline support.",
+    "size": 75,
+    "reviews": 120000,
+    "ratingAvg": 4.4,
+    "downloads": 15000000,
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 35000 },
+      { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/gqaizp7.jpeg",
+    "title": "HomeHub Smart Control",
+    "companyName": "ConnectAll Technologies",
+    "id": 111,
+    "description": "Control all your smart home devices from a single, intuitive interface.",
+    "size": 30,
+    "reviews": 22000,
+    "ratingAvg": 4.6,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 13000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/e0X2TtU.jpeg",
+    "title": "CryptoWatch Portfolio",
+    "companyName": "Decentralized Finance Co.",
+    "id": 112,
+    "description": "Real-time cryptocurrency portfolio tracking and market analysis.",
+    "size": 80,
+    "reviews": 16000,
+    "ratingAvg": 4.3,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 },
+      { "name": "2 star", "count": 2000 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/amVhEA7.jpeg",
+    "title": "StudyPal Flashcards",
+    "companyName": "Knowledge Boosters",
+    "id": 113,
+    "description": "Create, share, and study custom flashcards with spaced repetition algorithms.",
+    "size": 50,
+    "reviews": 28500,
+    "ratingAvg": 4.6,
+    "downloads": 1900000,
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 2250 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/8b7ZuNh.jpeg",
+    "title": "PhotoFilter Vintage",
+    "companyName": "Retro Lens Studios",
+    "id": 114,
+    "description": "A collection of high-quality vintage and film-like photo filters and editing tools.",
+    "size": 150,
+    "reviews": 65000,
+    "ratingAvg": 4.2,
+    "downloads": 9800000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 12000 },
+      { "name": "4 star", "count": 20000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/kJXxJyc.jpeg",
+    "title": "FitFuel Meal Prep",
+    "companyName": "NutriPlan Solutions",
+    "id": 115,
+    "description": "Custom meal planning and grocery lists based on your dietary goals.",
+    "size": 65,
+    "reviews": 38000,
+    "ratingAvg": 4.8,
+    "downloads": 2800000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 10000 },
+      { "name": "5 star", "count": 26000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/XeuxyNL.jpeg",
+    "title": "TravelMate Planner",
+    "companyName": "Voyage Digital",
+    "id": 116,
+    "description": "Organize your trips, book tickets, and discover local attractions seamlessly.",
+    "size": 90,
+    "reviews": 45000,
+    "ratingAvg": 4.5,
+    "downloads": 5200000,
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1600 },
+      { "name": "3 star", "count": 4500 },
+      { "name": "4 star", "count": 13000 },
+      { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/7Yig5de.jpeg",
+    "title": "GameZone Retro Arcade",
+    "companyName": "Pixel Dreams Inc.",
+    "id": 117,
+    "description": "A curated collection of classic arcade games with modern controls and leaderboards.",
+    "size": 350,
+    "reviews": 70000,
+    "ratingAvg": 4.1,
+    "downloads": 9000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 15000 },
+      { "name": "4 star", "count": 23000 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/hCrQruE.jpeg",
+    "title": "TuneMaker Studio",
+    "companyName": "Audio Innovators",
+    "id": 118,
+    "description": "Mobile music creation tool with a full sequencer, virtual instruments, and mixing board.",
+    "size": 420,
+    "reviews": 11000,
+    "ratingAvg": 4.7,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/y2DHs95.jpeg",
+    "title": "QuickSell Marketplace",
+    "companyName": "Local Commerce Group",
+    "id": 119,
+    "description": "Buy and sell used items locally with secure messaging and verified users.",
+    "size": 70,
+    "reviews": 55000,
+    "ratingAvg": 4.4,
+    "downloads": 6000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 8000 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 25500 }
+    ]
+  },
+  {
+    "image": "https://i.imgur.com/EUsiF21.jpeg",
+    "title": "WeatherWise Forecast",
+    "companyName": "Atmosphere Data Inc.",
+    "id": 120,
+    "description": "Hyper-local, minute-by-minute weather forecast with radar and air quality index.",
+    "size": 25,
+    "reviews": 105000,
+    "ratingAvg": 4.9,
+    "downloads": 18000000,
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 1000 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 15000 },
+      { "name": "5 star", "count": 87000 }
+    ]
+  }
+]
