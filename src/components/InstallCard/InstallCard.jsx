@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import { addToDB, getAppsDB } from '../../utilities/AddToDB/AddToDb';
 import { shortNum } from '../../utilities/shortNum/shortNum';
 import { toast } from 'react-toastify';
+import downloadImg from '/src/assets/icon-downloads.png'
+import ratingsImg from '/src/assets/icon-ratings.png'
+import reviewsImg from '/src/assets/icon-review.png'
 
 const InstallCard = ({ single }) => {
     
@@ -64,7 +67,7 @@ const InstallCard = ({ single }) => {
 const Info= ({type, info}) => {
     return (
         <div className='w-[150px]'>
-            <img src={`/src/assets/icon-${type}.png`} alt={type} />
+            <img src={type=='downloads'? downloadImg: type=='ratings'? ratingsImg: reviewsImg} alt={type} />
             <p className='#001931 opacity-80'>{type=='downloads'? 'Downloads': type=='ratings'? 'Average Ratings': 'Total Reviews'}</p>
             <h3 className='font-extrabold text-[40px]'>{info}</h3>
         </div>
