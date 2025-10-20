@@ -37,3 +37,7 @@ body {
   border-image: linear-gradient(125deg, #632ee3 5.68%, #9f62f2 88.38%);
   border-image-slice: 1;
 }
+
+.chart *:focus {
+  outline: none;
+}

@@ -13,8 +13,8 @@ const Banner = () => {
                 <p className='text-[#627382] text-xl mt-4'>At HERO.IO , we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.<br />Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
                 <div className='flex gap-4 mt-10 w-full justify-center'>
                     
-                <StoreBtn logo={playStoreLogo} text='Google Play'/>
-                <StoreBtn logo={appStoreLogo} text='App Store'/>
+                <StoreBtn onClick={() => window.open('https://play.google.com/', '_blank')} logo={playStoreLogo} text='Google Play'/>
+                <StoreBtn onClick={() => window.open('https://www.apple.com/app-store/', '_blank')} logo={appStoreLogo} text='App Store'/>
                 </div>
                 <img className='w-4xl mx-auto mt-10' src={heroBg} alt="Hero Banner" />
      </div>
@@ -22,9 +22,9 @@ const Banner = () => {
     );
 };
 
-const StoreBtn = ({logo, text}) => {
+const StoreBtn = ({logo, text, onClick}) => {
     return (
-        <button className='btn flex gap-2.5 justify-center items-center px-6 py-3 rounded-sm border border-[#D2D2D2] text-xl font-semibold text-[#001931] h-fit'><img className='w-8' src={logo} alt={`${text} logo`} />{text}</button>
+        <button onClick={onClick} className='btn flex gap-2.5 justify-center items-center px-6 py-3 rounded-sm border border-[#D2D2D2] text-xl font-semibold text-[#001931] h-fit'><img className='w-8' src={logo} alt={`${text} logo`} />{text}</button>
     )
 }
 
